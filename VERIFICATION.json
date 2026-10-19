@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-19",
+  "preserved_briefings": 15,
+  "latest_detailed_articles": 16,
+  "collected_rss_headlines": 48,
+  "python_tests_passed": 7,
+  "dom_test_widths": [
+    360,
+    390,
+    768,
+    1280
+  ],
+  "dom_network_failure_fallback": "passed",
+  "actual_mobile_rendering": "not_tested",
+  "github_repository": "public_created_askdfdg11/signal-dashboard",
+  "github_source_upload": "blocked_403_resource_not_accessible_by_integration",
+  "github_pages_source": "github_actions_saved",
+  "github_pages": "not_deployed",
+  "github_actions_execution": "not_tested",
+  "analysis_api_execution": "not_tested",
+  "analysis_default": "disabled"
+}

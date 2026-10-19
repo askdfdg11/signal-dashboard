@@ -1,0 +1,11 @@
+{
+  "name": "signal-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/ui.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "30.1.3"
+  }
+}

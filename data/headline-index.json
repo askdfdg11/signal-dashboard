@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "date": "2026-10-19",
+      "slot": "evening",
+      "slot_label": "저녁",
+      "scheduled_at": "2026-10-19T20:00:00+09:00",
+      "collected_at": "2026-10-19T20:27:15+09:00",
+      "file": "data/headline-archive/2026-10-19/evening.json",
+      "count": 48
+    }
+  ]
+}

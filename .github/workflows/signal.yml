@@ -1,0 +1,118 @@
+name: SIGNAL update and Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 8 * * *'
+      timezone: Asia/Seoul
+    - cron: '30 12 * * *'
+      timezone: Asia/Seoul
+    - cron: '0 20 * * *'
+      timezone: Asia/Seoul
+  workflow_dispatch:
+    inputs:
+      collect:
+        description: 'Collect RSS now, then deploy'
+        type: boolean
+        default: true
+      slot:
+        description: 'Latest due slot, or a specific most recently due slot'
+        type: choice
+        options: [auto, morning, noon, evening]
+        default: auto
+
+permissions:
+  contents: read
+
+concurrency:
+  group: signal-update-and-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pages: read
+    outputs:
+      collect_outcome: ${{ steps.collect.outcome }}
+      analysis_outcome: ${{ steps.analysis.outcome }}
+    env:
+      SIGNAL_CRON: ${{ github.event.schedule }}
+      SIGNAL_SLOT: ${{ inputs.slot || 'auto' }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Test preservation and failure behavior
+        run: python -m unittest discover -s tests -v
+      - name: Collect four categories of RSS headlines
+        id: collect
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
+        continue-on-error: true
+        run: python scripts/collect_headlines.py
+      - name: Optional source-backed AI analysis
+        id: analysis
+        if: steps.collect.outcome == 'success'
+        continue-on-error: true
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANALYSIS_MODEL: ${{ vars.ANALYSIS_MODEL }}
+          ENABLE_ANALYSIS: ${{ vars.ENABLE_ANALYSIS }}
+        run: python scripts/generate_analysis.py
+      - name: Preserve data and record failures
+        if: steps.collect.outcome != 'skipped'
+        run: |
+          python scripts/record_execution.py
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update SIGNAL collection and automation status'
+            git push
+          fi
+      - name: Build static site with the latest archive
+        run: python scripts/build.py
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload only public site files
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Run summary
+        if: always()
+        run: |
+          python - <<'PY'
+          import json, os, pathlib
+          path = pathlib.Path('data/automation-status.json')
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write('SIGNAL: headline collection and AI analysis are separate.\n\n')
+              f.write('```json\n' + path.read_text() + '\n```\n' if path.exists() else 'No automation status available.\n')
+          PY
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  report-failure:
+    needs: [build, deploy]
+    if: always() && (needs.build.outputs.collect_outcome == 'failure' || needs.build.outputs.analysis_outcome == 'failure')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep the workflow red when data automation fails
+        run: |
+          echo 'Collection or analysis failed. The site preserves the last good briefing and displays component status.'
+          exit 1
