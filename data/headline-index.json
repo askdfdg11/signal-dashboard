@@ -3,6 +3,15 @@
   "snapshots": [
     {
       "date": "2026-10-21",
+      "slot": "noon",
+      "slot_label": "점심",
+      "scheduled_at": "2026-10-21T12:30:00+09:00",
+      "collected_at": "2026-10-21T13:01:52+09:00",
+      "file": "data/headline-archive/2026-10-21/noon.json",
+      "count": 48
+    },
+    {
+      "date": "2026-10-21",
       "slot": "morning",
       "slot_label": "아침",
       "scheduled_at": "2026-10-21T08:00:00+09:00",
