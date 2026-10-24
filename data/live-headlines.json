@@ -1,10 +1,10 @@
 {
   "version": 1,
   "date": "2026-10-24",
-  "slot": "morning",
-  "slot_label": "아침",
-  "scheduled_at": "2026-10-24T08:00:00+09:00",
-  "collected_at": "2026-10-24T08:20:20+09:00",
+  "slot": "noon",
+  "slot_label": "점심",
+  "scheduled_at": "2026-10-24T12:30:00+09:00",
+  "collected_at": "2026-10-24T13:00:21+09:00",
   "verification": "headline_only",
   "articles": [
     {
@@ -17,12 +17,12 @@
       "verification": "headline_only"
     },
     {
-      "title": "AI 투자 불안에 국내 증시 급락…코스피 장중 5,300선 위협 - 미디어스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZMFdPOVBYakw4TC12RDdVcHdnVndqYUQ0MTdKUlUtQ21fenkxd1BtMF9NcDJ6SDV2cWFOVHFDc2hpX1JxeGR5Z2FsLURjd0hFNjlFR0ZGSFlHSnVqY1JoU1dCYkRlVFdpYjlBVm5BSjPSAXBBVV95cUxQWTBXTzlQWGpMOEwtdkQ3VXB3Z1Z3amFENDE3SlJVLUNtX3p5MXdQbTBfTXAyekg1dnFhTlRxQ3NoaV9ScXhkeWdhbC1EY3dIRTY5RUdGRkhZR0p1amNSaFNXQmJEZVRXaWI5QVZuQUoz?oc=5",
+      "title": "[주간증시전망] 반도체 실적·주주환원에 쏠린 눈…코스피 반등 시험대 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HdnEwZDV5Zm44N2tqaFc0Yk45TWZBTXItNzA5Q0wyWTRoZkh3ZmRlUko1ODk0YnRPWktoU1NzZUZSMVdoM2hHdU4yVjFGbzZDaFJrUzg3bW7SAVhBVV95cUxPR3ZxMGQ1eWZuODdramhXNGJOOU1mQU1yLTcwOUNMMlk0aGZId2ZkZVJKNTg5NGJ0T1pLaFNTc2VGUjFXaDNoR3VOMlYxRm82Q2hSa1M4N21u?oc=5",
       "category": "증시",
       "category_id": "stocks",
-      "source": "미디어스",
-      "published_at": "2026-10-23T15:32:13+09:00",
+      "source": "아주경제",
+      "published_at": "2026-10-24T08:00:00+09:00",
       "verification": "headline_only"
     },
     {
@@ -35,6 +35,15 @@
       "verification": "headline_only"
     },
     {
+      "title": "AI 투자 불안에 국내 증시 급락…코스피 장중 5,300선 위협 - 미디어스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZMFdPOVBYakw4TC12RDdVcHdnVndqYUQ0MTdKUlUtQ21fenkxd1BtMF9NcDJ6SDV2cWFOVHFDc2hpX1JxeGR5Z2FsLURjd0hFNjlFR0ZGSFlHSnVqY1JoU1dCYkRlVFdpYjlBVm5BSjPSAXBBVV95cUxQWTBXTzlQWGpMOEwtdkQ3VXB3Z1Z3amFENDE3SlJVLUNtX3p5MXdQbTBfTXAyekg1dnFhTlRxQ3NoaV9ScXhkeWdhbC1EY3dIRTY5RUdGRkhZR0p1amNSaFNXQmJEZVRXaWI5QVZuQUoz?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "미디어스",
+      "published_at": "2026-10-23T15:32:13+09:00",
+      "verification": "headline_only"
+    },
+    {
       "title": "코스피, 장중 4% 급락 딛고 극적 반등…5,550선 탈환 - 산경투데이",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYaWc1ZFM5ZUp2NVRMSVMwbExaZ0VEamI4YTNRSDJ4ckkyVV9OWWdmQWNxOVlKVVNMSW9wOW5DMWpUUlkxOHVpUDBRUHp5cTNQYmhlS2NfYl9YYUZuMkJIWWtPUEdYTVA2UGhTNEpKZHDSAXRBVV95cUxNT1R6ZS00ZXlWVGtVWExlU0JXaElLNFVVZWJsdU12eVk4MFplQ0hScVAwYzVDcmV2M0FmRkNTYS16RllwSlR6ZTVkZzN5ek5OM01rRXJzaHMya0lZbmhPMG1XLWE5SnRRTnBlMnd5UlFoWlBidw?oc=5",
       "category": "증시",
@@ -44,21 +53,30 @@
       "verification": "headline_only"
     },
     {
-      "title": "“뉴욕발 AI 충격 또 덮쳤다”…코스피·코스닥 장 초반 3%대 하락 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJeGUzdWx5a185OGJwMTZ0ek1USDlSY1hCc1BkWEY4SW9lY285YlBMNXludDR3S1o5TTJSYnZNV0RyUUh2Mno3ZEdlNXNoUDVwT3c?oc=5",
+      "title": "코스피 5,550선 탈환했지만…외국인 1조원 '매도 폭탄' - 센트럴경제",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfMEhNN1B1c2Z0aV9ZRGdaU2o5MHI0amVZY3JPVUg4RVVDQWpISjlxM2VvUnNJYnVPTzdlTDJmQVN2T1M5NkRhdDRBYkR0U05XTVJmYkVlanVaaXJoMGg5Zkp0eWc3d9IBakFVX3lxTE9WLWhfRG5iX1k0M1FoZjhjdjFsQ0hiaXF2SlRpRC1sMVpvbXlzN2RsNXJKOHYxLW9ZVHR3TU9pQnFDMWQzeE1VTHhZNWNBYllydllJUUlMZTN3YVlCSzU1dmFfQ2FrQkJudlE?oc=5",
       "category": "증시",
       "category_id": "stocks",
-      "source": "매일경제",
-      "published_at": "2026-10-23T09:26:50+09:00",
+      "source": "센트럴경제",
+      "published_at": "2026-10-23T17:56:54+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "코스피, 美 AI·반도체주 급락에 3%대 하락...코스닥도 3%대 약세 - 녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RzRvSlVMRTRJYnZlMGpaTF9ibDhZT1JpWnVxMnV1YktHVVNTbTJta2NFSl9NcUd2MVVZSWRpU3ZMRG0waGtPOVliMXlHUlI3Nnh3WWpmMFBqaHZLbEV0Wm5yRFFHeDg?oc=5",
+      "title": "[마감시황] 코스피, 장중 4% 급락 딛고 반등…SK하이닉스 4.42% 상승 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CSWNvZW1PRUExYXB4cHFqLTVYbDdHOGlfd0lnN0drUzV5UEZDRjJINXRtMF85UXByR2dCUkJIZEY5LUl6bDFWWU9seVpWMDNGZzV4eHk0aDFhbWx0?oc=5",
       "category": "증시",
       "category_id": "stocks",
-      "source": "녹색경제신문",
-      "published_at": "2026-10-23T09:54:06+09:00",
+      "source": "뉴스핌",
+      "published_at": "2026-10-23T16:02:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[증시 오늘] 코스피 급락 딛고 반등 - 빅터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vdk4zcGNuOGplTVZ1aDFUWmc1UzJCQUltbTZHWU5aMnFPbVFSZFZJeFZBRlNkdENvZ2NmeWktR1dGTDVBb2NYbk1GdllLT0ZodXpwUE9KeDRGRVMydXN2U2tkTVFtQUE?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "빅터뉴스",
+      "published_at": "2026-10-23T22:06:35+09:00",
       "verification": "headline_only"
     },
     {
@@ -71,12 +89,12 @@
       "verification": "headline_only"
     },
     {
-      "title": "[개장시황] 코스피, 美 기술주 쇼크에 5350선 후퇴…코스닥도 하락 - 뉴스핌",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmX2NRVEpaUjVnLXUwYWNqWkFmUE5ScXZESXplcHoyY2E1OF82bDh3ZnZ5T3FIaTdvV2lzeElkaXNHVHRTWlVIR28xLUFyNldoMnpOV1hEd1VYSk15?oc=5",
+      "title": "주가 이렇게까지 빠지다니…전문가가 본 미장과 국장 하락 차이는 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3S0xTb25wSmIxVWZCdDBralFPVUltRzBldTM1QlNsQXRtejZQTFlXbGpJaU44OWJJdXBsaksyYW51YVo3Z0RzX0VFOWVhdm1DbzVv0gFTQVVfeXFMUHdLTFNvbnBKYjFVZkJ0MGtqUU9VSW1HMGV1MzVCU2xBdG16NlBMWVdsaklpTjg5Ykl1cGxqSzJhbnVhWjdnRHNfRUU5ZWF2bUNvNW8?oc=5",
       "category": "증시",
       "category_id": "stocks",
-      "source": "뉴스핌",
-      "published_at": "2026-10-23T09:29:00+09:00",
+      "source": "서울경제",
+      "published_at": "2026-10-24T10:37:56+09:00",
       "verification": "headline_only"
     },
     {
@@ -89,57 +107,48 @@
       "verification": "headline_only"
     },
     {
-      "title": "코스피, SK하이닉스 급반등에 5550선 회복…코스닥은 1.62%↓ - 블루밍비트",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IY01pSmk3Q3FMS3ozR29HWDRjU3F0aUhnMzItUHhDSy0wMzJrMjlxODRZMGVJaFo4MXlBWHlTQmJWYzFwOTdKREFVclo3dXFY?oc=5",
+      "title": "[오늘의증시] 10월 23일 코스피 코스닥 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pTDlZMGV6by05c2xZYmVXNHVnTmNYZHd3SUN1dWpNMXVsdDhvamIxRnJpRlBuM3JnbzVkMVhNNkdYRXlSc0UwZFV0MA?oc=5",
       "category": "증시",
       "category_id": "stocks",
-      "source": "블루밍비트",
-      "published_at": "2026-10-23T15:57:06+09:00",
+      "source": "뉴스1",
+      "published_at": "2026-10-23T15:34:51+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "SKAI·에이전트AI 상한가에도 증시 활력 제한…코스피·코스닥 저조한 흐름 속 변동성 장세 - CBC뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YSGtHd1o3N3k5VDRTanFtX3hnVWNNczRBb2toQ0RPNkVENm1aU2NmMkg2eHljQWJzUnhTb1hiSDJEYm56TUdsQ3hGeHJ2UUpMX045cEduZVU3RnBUNnNzZlo1eXQxbzFp?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "CBC뉴스",
-      "published_at": "2026-10-23T19:46:49+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "코스피 5,500선 붕괴에 반도체주 '와르르'…외국인 매도에 증시 급락 - 센트럴경제",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85QkZvUGlvSmphWmFYWVVOcUJ3Rzd3bXdibjA0S2otcEVXOHV1UXM1RDRVeDFrcUlOblFoSFkzQ1hId3dKTVo2RGVtaFlaSlBhajZubE9KQzZwMXhvb1hJb21IUDFZUdIBakFVX3lxTE5RVEktN0gwbXZCT2FuV3dUVG0yVEYxdzc3RmdELVVGTFlQc2dkWWtzZ3ZJenBJMmlsU0hGcVQxaXRWNndNQlpqQkdkQ1NpVjRnY2hTZ3pJZnBEM0hJY0VFcmc4MHhoOExXWnc?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "센트럴경제",
-      "published_at": "2026-10-23T09:19:20+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER] - 매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUV25oLTNUYU9nR19BUTRCNWNUOUFjVUtfZVhwVjl3b3lFb0dDSXFFQTNwNEV1czN5ZEtuZm1TRUVJWUJUbC1oaG5YMFpKR0paR1E?oc=5",
+      "title": "한은, 물가·집값 경계 속 금리 동결…\"인상 영향 점검\" 밝혀 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xWWVPVmtWa3BLUmJPR0hDam9neG5FT3pjVnlyb2pwSTI4NHIxdDJFSl9YVWhFZzNhYW12M0E1UjNUUnItWFlQeXIyZWxxRE9Id2wxd1UwYUI?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
-      "source": "매일경제 마켓",
-      "published_at": "2026-10-23T20:30:33+09:00",
+      "source": "경북신문",
+      "published_at": "2026-10-24T08:08:30+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "한은, 물가·집값 경계 속 금리 동결…\"인상 영향 점검\"(종합2보) - 세무사신문",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9adGZpcVNUYVpRRWh2SXh1MEtub1NfTkJMU1hTOGYtRkYzZzdDLXJkQXpUM2VFQkpHcUxJTFZqWGF4djdMWVFUZkh6ZXZYblVkVmp3Nkw3NjhmSzZLdlMyMmJSWDB6NVBuRnBuQ3NB?oc=5",
+      "title": "환율‧집값 불안 속 한은, 금리 동결…시장 안정 택했다 - 시사매거진",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nbXMxR1lBd1pfZVZKRUtDRXBWLUxJQU05QzNCN2IwSUd4dXBjYng1aU1hcXdybHBNVkxKeW8tOFlBdk1PejVmZzN2aW1vSUdEQjVCek1qLUU?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
-      "source": "세무사신문",
-      "published_at": "2026-10-23T09:40:50+09:00",
+      "source": "시사매거진",
+      "published_at": "2026-10-24T09:44:28+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "안도걸 의원, “대한민국 경제 펀더멘털 개선... 금리·환율 코리아 프리미엄” - www.intn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00bHE3VFE3WWdDd2ttaUdNX29DT0ZFVFBMSkw5RUdhajB6ejNESkJoa3V5LTJYQjlhQTM4T3RHVE44RUxnSHhuYU13U215WkNmamhpdFpuYXI5VVJXcTF6WlJBbGhaQ1hu?oc=5",
+      "title": "안도걸 의원, “대한민국 경제 펀더멘털 개선... 금리·환율 코리아 프리미엄” - Daily NTN",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sdkVGZ2VDNmo0VUNzWXpTaFk0dHMwd0g1VlNkNFdSclVJZFVIZUJVWlZaaHVQT09LZHF3UV9LenIxbmZ1ZjlFbDVyY2dIUlEtM3dWbFgzREhSZnJESHNaTFh6eGc?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
-      "source": "www.intn.co.kr",
+      "source": "Daily NTN",
       "published_at": "2026-10-23T23:15:03+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[2026 국감] 신현송, 성장·물가 전망 상향 시사…원화 추가 강세도 \"여지\" - 프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWUhoaEczS2FKSkZ6anNHbGJ6bm05Mjd0bHBWcS1rNm12Y1JiZkxqcnVRVGtCbm1PNjFqaEhnZmQxUHlIQ245N3QyUnVVVFdDNjVyOUVzZl9JZVdNMFN3aXh0dDVHY04wMnFDTA?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "프라임경제",
+      "published_at": "2026-10-23T19:22:46+09:00",
       "verification": "headline_only"
     },
     {
@@ -161,21 +170,12 @@
       "verification": "headline_only"
     },
     {
-      "title": "안도걸 의원, “대한민국 경제 펀더멘털 개선... 금리·환율 코리아 프리미엄” - 일등방송",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WFc1a2Jqa2RTV3pXSk9oQnZLOTBvWWo5MTR0M1NtWjRQS2lQb1RsVzVHdTdsMGZUWWp0SnFwc2p3bE14X1B2SF9WVmdJNTNuLWcxckZxcFhmVE0?oc=5",
+      "title": "[경제pick] 금리 묶이고 증시 폭락···반도체 호황에도 엇갈리는 체감경기 - 글로벌E",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11MjF1bTNnekY2RGNQeFd1c2J2c1IwaEUtbnpqbFhSSFRXNk5kTmZJZEY0NkFBVWVELWQ0aFY1LTkxNE10N1JrMzZWdTVkbVlJaDdjVS1fYmRFdmpyRUN1T1ZFcU91NzdtWk13UG5rNNIBb0FVX3lxTE11MjF1bTNnekY2RGNQeFd1c2J2c1IwaEUtbnpqbFhSSFRXNk5kTmZJZEY0NkFBVWVELWQ0aFY1LTkxNE10N1JrMzZWdTVkbVlJaDdjVS1fYmRFdmpyRUN1T1ZFcU91NzdtWk13UG5rNA?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
-      "source": "일등방송",
-      "published_at": "2026-10-23T17:38:00+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "[정책포커스] 한국은행, 기준금리 3% 동결…물가 오름세·금융 리스크 상존 - 시사캐스트",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80UGdpcWQzUkRHQ0k1WjNVOVc5S0l1d3BrNWFCZlo2MmMwQUVsSzh6TDdUWUZ5ckpSTXpuTHE2WEFtaVAwNm52UXVyLWJieC1iWjVZc2cwSUo3bG4wNkhaNHMwZnMxWERj?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "시사캐스트",
-      "published_at": "2026-10-23T09:49:06+09:00",
+      "source": "글로벌E",
+      "published_at": "2026-10-23T19:06:27+09:00",
       "verification": "headline_only"
     },
     {
@@ -188,39 +188,39 @@
       "verification": "headline_only"
     },
     {
+      "title": "[국감 현장] 신현송 “고성장·고금리 시대 대비”…내년 성장률 3%대 가능성 시사 - https://www.moneystorm.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCVUJoYlRzVDFNb2w4U01aNnprVkpCN3pIRHR6aElRcmNnUnhSMW10NTMwdGlIa0ZEdkU3c1lwZTVVbE1SZ2FIeFQ1aHhKOTVlVFhkdEl1b3R2TVpTcHpYUDQ1SUEyQWxfMFE?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "https://www.moneystorm.kr/",
+      "published_at": "2026-10-23T21:30:48+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[2026 국감] 신현송 \"초저금리 시대 복귀 어려워\"…성장·물가 전망 상향 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yaURCd3E5Tko0U2dXSGs4THRsZmNlWWUwNXVTWlJOa19EZDJzbjlPbmNWWG54UEdEZF93NkVMSE1qYkttRVFHMHlSenl6VTNTWXZPclVLQkFKUdIBVEFVX3lxTE9DRHJURXZRVndSYzMwV0J2aGRrbEFxUE0xNVNic2VZam45anh3QWljY0kxN25xQVUyTEU1UjNYZlFORmZXZnhlVG1SSmJzSUJwTXFXNw?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "더팩트",
+      "published_at": "2026-10-23T17:19:10+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "신현송 \"과거 같은 초저금리 시대 돌아가기 어려워\"(종합) - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iYkhfNjdFc0k2WVFqcFNmVDZONE9VZDRmdkNERTBwMkg4emdZVjFrTUFScVpVanh0T1A5OG0xSG9lTllMWDhSc1R6YVBHUkJ1QndDUVByVGIwdHZWNzhrZzVIMHJGSmpocE00UkhIdXZCMldBTGRwWtIBeEFVX3lxTE9iYkhfNjdFc0k2WVFqcFNmVDZONE9VZDRmdkNERTBwMkg4emdZVjFrTUFScVpVanh0T1A5OG0xSG9lTllMWDhSc1R6YVBHUkJ1QndDUVByVGIwdHZWNzhrZzVIMHJGSmpocE00UkhIdXZCMldBTGRwWg?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "뉴시스",
+      "published_at": "2026-10-23T17:06:19+09:00",
+      "verification": "headline_only"
+    },
+    {
       "title": "[2026 국감-재경위] 신현송 \"초저금리 시대 복귀 어려워\"...고성장·고금리 대비 강조 - 폴리뉴스 Polinews",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LbXg3TEd0aGxMbzBUTUpybGZsZ0tqMElHMUtvLWZwTXR1M293MENrSjg5TFlYX2FiUEthenE4amttS1hhWm9SaHc3aHEwbWhWc3pXa295VThsbjlzWkhCSEljU3dFUFREVFBzSHZn?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
       "source": "폴리뉴스 Polinews",
       "published_at": "2026-10-23T17:01:26+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "\"한은, 11월 기준금리 3.25%로 올릴 것…성장·물가 전망 상향 예상\" - 중기이코노미",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QNXRoMTQzcXI2WmRQTlpTbmpKRjh2OWRWQ21yQmZGTWNQWjZkdnoxX2JtVFlfVG5HdjhoRXpCQkw3bTVyMVB3Qk93MDA5MEZoXzQwUDdadHd6Nk9KYmVvbVExa2JtTVB0OUE?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "중기이코노미",
-      "published_at": "2026-10-23T12:02:56+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "[2026 국감] 신현송, 성장·물가 전망 상향 시사…원화 추가 강세도 \"여지\" - 프라임경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hWUhoaEczS2FKSkZ6anNHbGJ6bm05Mjd0bHBWcS1rNm12Y1JiZkxqcnVRVGtCbm1PNjFqaEhnZmQxUHlIQ245N3QyUnVVVFdDNjVyOUVzZl9JZVdNMFN3aXh0dDVHY04wMnFDTA?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "프라임경제",
-      "published_at": "2026-10-23T19:22:46+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "(속보) 한국은행,기준금리 3.0% 동결:경인투데이뉴스 - 경인투데이뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUjVrSFFTNS1BYVdGRU1fWk9rVVpkVk0tQUpURXlWOEhNSDNoM0dIY2JpVlhUT2FDdUlyeExxNG1rZ2tVY2l2bHNOLWszUlVhNzRMdG1zLW5tM0h2WVhz0gFfQVVfeXFMT2RSNWtIUVM1LUFhV0ZFTV9aT2tVWmRWTS1BSlRFeVY4SE1IM2gzR0hjYmlWWFRPYUN1SXJ4THE0bWtna1VjaXZsc04tazNSVWE3NEx0bXMtbm0zSHZZWHM?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "경인투데이뉴스",
-      "published_at": "2026-10-23T19:19:18+09:00",
       "verification": "headline_only"
     },
     {
@@ -233,12 +233,21 @@
       "verification": "headline_only"
     },
     {
-      "title": "[심층분석] 이재명 정부의 비핵화 재탕과 집단 기억상실증 - 월간조선",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0NmpxbXd0ekpuNjhoQy0xcUFneFllbmVIbWk1clg3b3A5aXhvTEsxaDhheTgwSTk4WC1UOWJnQ3M2LVBtUWRPYkh1YmN0Y1BxNm1IWUlpMU81YmY4RTUtXzJPbFBYSTVOR0JsSg?oc=5",
+      "title": "북방외교 40년 외교관 “우크라와 관계 악화되면 누가 기뻐할까?” - 주간조선",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4bm43VnBORFY4YzJ5RmlPRF9oWXpyZWNEd044WkM5VldvQmZBbTczMHl2WWpPUVdXYjU1M2xJandIdk9rWkRwbUxOa01hZndBbFlaVGxzTzZFYlRKOGM1QmVHN1I4OWRTaXfSAW5BVV95cUxOdDU3Rmg5WG13dHYtVWppSlFEdlhqcXZZUHkwaU02UGVsLVgwMTV1a0NtM0dkSVdFa1ZERF9ETFFocUhETGctNlpZS0VlUUF5RXg1SHBPRlozN01SSmd6LWo1R0tlZndpQ25JaDBLZw?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
-      "source": "월간조선",
-      "published_at": "2026-10-24T06:52:04+09:00",
+      "source": "주간조선",
+      "published_at": "2026-10-24T08:00:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "이재명 대통령, WHO 테드로스 사무총장 접견…“한국, 국제보건·보건안보 분야 글로벌 협력 확대” - 외교문화뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54Q1o2blFKS1RqZW9GeENBZExZejRyZ3RKTUpkaXV6Z0dSdWZZT1F1Y0FESWRjVDlPbVN5ZEdHY3VRd3p2aUc5Z1hDWmtXRTlCRVRoQ2xyWmdWVm1Ba1VlRWcxQWI?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "외교문화뉴스",
+      "published_at": "2026-10-24T09:29:28+09:00",
       "verification": "headline_only"
     },
     {
@@ -251,57 +260,21 @@
       "verification": "headline_only"
     },
     {
+      "title": "[심층분석] 이재명 정부의 비핵화 재탕과 집단 기억상실증 - 월간조선",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0NmpxbXd0ekpuNjhoQy0xcUFneFllbmVIbWk1clg3b3A5aXhvTEsxaDhheTgwSTk4WC1UOWJnQ3M2LVBtUWRPYkh1YmN0Y1BxNm1IWUlpMU81YmY4RTUtXzJPbFBYSTVOR0JsSg?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "월간조선",
+      "published_at": "2026-10-24T06:52:04+09:00",
+      "verification": "headline_only"
+    },
+    {
       "title": "멜라니아 중재로 러·우 부분 휴전…고립 주민 구호·대피길 열린다 - 경북매일",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RMTJMeGNzaDZ0TGlSU1VLek95OFF1bHZLTV9rR25ONkxzWDJRdVFnUTRqZlBBV0g0S1IzY0FnUXBLcDB1enFXWjJiSW13aGpBMWI0Ym56R2Zmdw?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
       "source": "경북매일",
       "published_at": "2026-10-24T08:16:00+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "李 지지율, 2주 연속 상승해 40% 복귀⋯'외교'는 긍정, '부동산 정책'은 부정 [한국갤럽] - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCV1ZxSVhoVTV6ZlRrOEtKVUpoUnV4cmRpWllFTDJpVTh5dDJQWmZmSE1XTTh0R091MTVtN3JQX2tDYWRscGJaVEpxaw?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "아이뉴스24",
-      "published_at": "2026-10-23T10:50:05+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "북한 공무원들 이상징후?…김정은 사망설 이어 '김한솔 후계자' 음모론까지 [지금이뉴스] - YTN",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xcEtBZ3RtQW9wRWp0Ylh4T0xXcEFfSEdMTThnMVN3M2NSY1FGTmVTb0FJSHl5bUtjNG9saHBIWmMwTmViZllOYzJBS2VlZElhTFBnUTZ2UnVEc2pSbEE?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "YTN",
-      "published_at": "2026-10-23T09:50:00+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "박충권 “이재명 대통령 신뢰도는 북한과 동급…김정은 눈치 보나” [요즘여의섬] - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9teHp5R01aWDZOczJkV1pJck1aejd0NGJtanNvOHF4aGczdFJmOXlpRWEzbS1TU1M4NmYtLXVLcHVsVXdnTFE?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "매일경제",
-      "published_at": "2026-10-23T16:01:35+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "조현 \"유엔 '연대 가치' 발휘 위해 韓 힘 보태야\" - 더팩트",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NaUNDdkw0UjJpX3F4M0ZMMTVtWXgyZ3FHN0c2WHZqdHlxelR6ODNFN2xBT0ltMHQ1ckxVZ25hbW5jbTlwOWdXZDcwbUg5RHhrN2tBRkpCVWzSAVNBVV95cUxNLUFoTVFxZ3djTGZBb01RdDR3N29nTXNGRC1NdG5RMV9pR1pvcWdSUUU5RTBTMnVHRXBBM2RGXzRWd1lhNndfUkx6RVhleUZ6Uy1qRQ?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "더팩트",
-      "published_at": "2026-10-23T12:38:50+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "스위스, 평양에 첫 정치외교 사무소 개설…19일부터 정상 운영 - 샌드타임즈",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiY0p1WC1wOVhSam45S0xOS1g2RWtDWEhRbGFJMFFQMk9heFd1OG44dHg1SzBmMGZoSUdWMDBHaTJzTUJNMExjY2sxSkRvRENhZzlYa2U3WXJsb3U2R3JfTUNzSVBQeXJuQmJhbw?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "샌드타임즈",
-      "published_at": "2026-10-23T13:56:40+09:00",
       "verification": "headline_only"
     },
     {
@@ -314,21 +287,75 @@
       "verification": "headline_only"
     },
     {
-      "title": "[포토] 개회사하는 이중근 유엔한국협회장 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92UnN1Q213X2dkTUtIa09fQ20zYTAyU0lPbVpESHpXLU0waFBmVDVISmhkNFh0Smc3cFY1Yk82RUdiR3FBVzhKejZOSQ?oc=5",
+      "title": "'사망설' 일축한 北 김정은, 중대장대회 직접 지도…\"최강 군대 건설\" - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02Q2pFLVFvQXlvT0k2bTM5U0pxekg3SlJVWmZTVkMyMHpDR1dQQklBSjBfck1ENWdHeVR6N0tUUkk5UjNuS1BNRnhxallmdVRYSkFDMjNjUXjSAVNBVV95cUxNWEhVQnFEUV95Xy1UU0c4M1B1ZW03VGxULUtyd3B6UUZ2MXJSYWJFeFNyS0luQkRsaDNuX3V3XzRNTmRHMEhwcU9nTWlEaGlCTjhSTQ?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
-      "source": "아이뉴스24",
-      "published_at": "2026-10-23T12:00:15+09:00",
+      "source": "더팩트",
+      "published_at": "2026-10-24T09:24:27+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "[포토] 제81회 유엔의 날 기념식 기념촬영하는 조현 장관-이중근 회장 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqYm5pQmJTZ0d4dndNWlZIcnhWcklZc2VmYVdRSW95OEJzXzBOYm9zYVluY1Q2RzNNU0lsUUZ3NTV4bDFXVmF0Y2Uzbw?oc=5",
+      "title": "박충권 “이재명 대통령 신뢰도는 북한과 동급…김정은 눈치 보나” [요즘여의섬] - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9teHp5R01aWDZOczJkV1pJck1aejd0NGJtanNvOHF4aGczdFJmOXlpRWEzbS1TU1M4NmYtLXVLcHVsVXdnTFE?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "매일경제",
+      "published_at": "2026-10-23T16:01:35+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "스위스, 평양에 첫 정치외교 사무소 개설…19일부터 정상 운영 - 샌드타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiY0p1WC1wOVhSam45S0xOS1g2RWtDWEhRbGFJMFFQMk9heFd1OG44dHg1SzBmMGZoSUdWMDBHaTJzTUJNMExjY2sxSkRvRENhZzlYa2U3WXJsb3U2R3JfTUNzSVBQeXJuQmJhbw?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "샌드타임즈",
+      "published_at": "2026-10-23T13:56:40+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "김민석 \"吳 무죄, 납득 어려워…'정치적 판결' 매우 우려\" - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44VUdmMFVxazlKTnNxcVNGQmpGQWw0SHZfNU1qTjFuOWNuNm5VSTdNMHVJeGU4eElDRzZ0MXc1a011X3VwY3VQeV9wcw?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
       "source": "아이뉴스24",
-      "published_at": "2026-10-23T12:07:45+09:00",
+      "published_at": "2026-10-23T16:12:13+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[속보] 초고도비만 김정은 \"사망설은 허위\"⋯국정원 보고 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CNmJzZ1N5NkdlcGtxVTdPOFN0U2gyaGt0d2JXVjJuY1BocUVkSC1aT3A4WExudkFsazJ1MHJpMHZPMXFqSGVOeF9PMA?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "아이뉴스24",
+      "published_at": "2026-10-23T18:24:01+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "알래스카 LNG 프로젝트, “곧 착공” 정치 구호와 현실의 거리…한국 투자 논란 속 현장을 가다 - www.sisaworld.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OdndoUXlWTUltQUp1M3BzR2xkS1l4Y2FWbllZN3BWdThiUE9OOFZGa0R6MDdwSW44ZThCTTl0Mll5ZHdhdVlUaXA0dDdrcVhfTXpFSGs1aVdjdkotYVNoMFhxLVhHTWsxNGc?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "www.sisaworld.kr",
+      "published_at": "2026-10-24T09:38:15+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "“일터와 삶터의 공존”…바르셀로나에 찾은 도시재생 해법 - 기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jY3M2azdTZVc0bXFGLU1EWVhuRXdHUWRVbllnNEMyVmt3ZXhxM192MUhCdzJQRzk5X2l5WmY0OTNIVFZJRk1vQm9NNDJia3dVaHlNdW40NXFzQUZoS0x0T2dDdERpNC1XbF9aeS1zRQ?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "기호일보",
+      "published_at": "2026-10-24T10:34:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "이재명 대통령, 일본 경제계 대표단 접견…“한일 첨단산업 공급망 협력 필수적” - 외교문화뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xTDBkc2ZqRGxkeGN6WmNkVFZmNXMxOHZMQXdScERuS1FIVnNyWDd6cmdScWdONG9mYzdOWkdMMUJSWURMaU53aHB4WDRQZFh0VzlraUZMVG1CQWdYTk9BcTV0TmQ?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "외교문화뉴스",
+      "published_at": "2026-10-24T09:40:21+09:00",
       "verification": "headline_only"
     },
     {
@@ -338,6 +365,15 @@
       "category_id": "global",
       "source": "한국일보",
       "published_at": "2026-10-24T04:30:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "이 대통령, 29일 독일 총리와 회담…경제·방산 협력 확대 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6czhQRzhnRS1xeko1UDNPYTZDR3dwcUVRRkV0bHp2dUJRNGZDNXJRRGNnSXhCc18zeTFNeDNWQWlsRkpDUkxXRlV3RUFUOHRpVlRUZGZuTTUzMHlJM01Ta2xiMGNzWW9uQ3d1SQ?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "스페셜경제",
+      "published_at": "2026-10-24T09:36:24+09:00",
       "verification": "headline_only"
     },
     {
@@ -356,15 +392,6 @@
       "category_id": "global",
       "source": "https://www.climatepol.com/",
       "published_at": "2026-10-23T19:07:09+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "러시아산 경유 제재 이후 첫 미국행 - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PNjdoWjlyWlZfVF96NXRLaGo5TGVSdjBvUEs3Wmo3Q2IyaTdEbVEwcTRVSWJFRXhXanVFMUx6RVlEN2phYVJMUEdkaHpxaGdMSkthNVhYcXQ1RVBJUHAxYVJGNHY?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "매일일보",
-      "published_at": "2026-10-23T19:10:00+09:00",
       "verification": "headline_only"
     },
     {
@@ -410,33 +437,6 @@
       "category_id": "global",
       "source": "로컬세계",
       "published_at": "2026-10-23T16:42:48+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "건보공단, WHO와 보건협력 논의…건강보험 전문성 국제 공유 - 폴리뉴스 Polinews",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13bU5QQ2FqT0F5WjFVMG1YMnBrRDc2MC05MndtelI2UGxER01CaUVhU0FOZHJXOVlOczNpZWhtdWdpQW9CU3ZHTDVZd0QyUWplMkhJV0V3XzJlNktXVEJBUGlMak9FenBrQUhsNzF3?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "폴리뉴스 Polinews",
-      "published_at": "2026-10-23T18:47:30+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "미국 고금리 장기화 전망으로 투자 조건 악화, 한국 대미 투자 원전 LNG 사업성 시험대 - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qVFNmV3c1QmhQZ0tTbHY4QlZXZHNKTlI0VS0teTBOenJfLW9TVjRtQTRocktSeE9uLUJXblIxLUxKQTd3V2J1NndGV05YcWpGNzgtQ2NIeHFOUWhCMzhrTFRHMVpLQlFLbzdVOEQ0Z055YTg?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "비즈니스포스트",
-      "published_at": "2026-10-23T15:55:43+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "[숏폼뉴스] 토드 부크홀츠 의 다시 국가를 생각하다 - 기호일보",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90RTlRb3VYZnpIZFJVZlRKbXFHSEtXdHFvaEhnRUZVZDdUZVNEaXJlWERuYWdnMnNoWVFhY0ZlakFRc3hBdF9MYmdtT2xWb3kyb3liblhnX2hocXp0dDJOeUMwTHE4cGFMX3RraXFrQQ?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "기호일보",
-      "published_at": "2026-10-23T09:21:00+09:00",
       "verification": "headline_only"
     }
   ]
