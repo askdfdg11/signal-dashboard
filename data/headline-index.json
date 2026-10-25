@@ -2,6 +2,15 @@
   "version": 1,
   "snapshots": [
     {
+      "date": "2026-10-26",
+      "slot": "morning",
+      "slot_label": "아침",
+      "scheduled_at": "2026-10-26T08:00:00+09:00",
+      "collected_at": "2026-10-26T08:17:46+09:00",
+      "file": "data/headline-archive/2026-10-26/morning.json",
+      "count": 48
+    },
+    {
       "date": "2026-10-25",
       "slot": "evening",
       "slot_label": "저녁",
