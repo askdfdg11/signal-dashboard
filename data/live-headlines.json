@@ -1,12 +1,57 @@
 {
   "version": 1,
   "date": "2026-10-27",
-  "slot": "morning",
-  "slot_label": "아침",
-  "scheduled_at": "2026-10-27T08:00:00+09:00",
-  "collected_at": "2026-10-27T08:22:41+09:00",
+  "slot": "noon",
+  "slot_label": "점심",
+  "scheduled_at": "2026-10-27T12:30:00+09:00",
+  "collected_at": "2026-10-27T13:04:32+09:00",
   "verification": "headline_only",
   "articles": [
+    {
+      "title": "코스피 4%대 급등 출발…외국인 매수에 5700선 회복 눈앞 - www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QelBib2FSd2ZCRGJSQ0RrQ3JzVHZvZFZfSVhfd3lkWU9QVHRPVjJLRlBIdWxWM2JncHJ3dnFzNW1JMnlmTHRrQjZzT1U5aC0yaE9HcjNCNHNEVXVuQ1RNaUxWMlFxWW1N?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "www.ebn.co.kr",
+      "published_at": "2026-10-27T09:23:04+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "美 증시 훈풍에 코스피·코스닥 4%대 급등…외국인·기관 ‘쌍끌이’ 매수 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gb1U2eGt3SEI3eFQxVUNQMWl4SXZQM0VHSFpzY0txVERncmVNSVNmY3BBUkRPS3RjUFp5eFZqUjRTSWE5di11VWFYa252d19EWTZRZtIBVEFVX3lxTE5Gb1U2eGt3SEI3eFQxVUNQMWl4SXZQM0VHSFpzY0txVERncmVNSVNmY3BBUkRPS3RjUFp5eFZqUjRTSWE5di11VWFYa252d19EWTZRZg?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "세계일보",
+      "published_at": "2026-10-27T10:11:03+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "코스피 4%대 급등에 매수 사이드카 발동…반도체주 강세 - 산경투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YkZybWhGOUY1MldPZDN2MU13dEJrOGwwQ0djRUctUDBWN1FLQlNsOGZRbU1MMi1zTUg5WXA0dE5BdlNTc1ZMVnZmbVFvbmg2RHREaHdybDd0ZUpJNmJZZ0NKY2Y0OGR6eFI0Ync0VEjSAXRBVV95cUxPeVBZMXNHTmRrT3RNVlI1aXQwTlQ3N2dmaGtXSnRzREhZMkJlUUhYdzI5LU1vUndYSS1vN3dIUkhST0FSQjBjZWZUc2hYUS10bHNTUWlhX1FucFRHM0RpQnZtUnloWkxBMVNqajVPYk9hUzRLMw?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "산경투데이",
+      "published_at": "2026-10-27T10:48:12+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[속보] 코스피 3.46%·코스닥 2.18% 반등 출발…앤트로픽發 훈풍 - 뉴스버스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tdmNBbTJKNTJyWDc4VEFoUk1KRHMxV01VOGpCQlZiWE16dEUxbllERzdvYk5ldTMwb01rTkVJbE9uT3BYXy1iZHdhUmZEanY5Z0VzNlpubWFySDlyTjR0bjliOS1yYklKRVE?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "뉴스버스",
+      "published_at": "2026-10-27T09:13:39+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[마켓뷰] 코스피, '앤트로픽발 훈풍'에 반등 시도하나 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QSDdhWHhLYlZpZ0lvaHo4VnluN1Zvekd0NVR0Z1FqcFFCTFhJTTdFdFhZV2xJTzM2M1lwZjViTkFuQ2NJUVU0eFZXdy1TSjNLX0pDdUlfcEtYbEtfUmZpNdIBYEFVX3lxTE5QSDdhWHhLYlZpZ0lvaHo4VnluN1Zvekd0NVR0Z1FqcFFCTFhJTTdFdFhZV2xJTzM2M1lwZjViTkFuQ2NJUVU0eFZXdy1TSjNLX0pDdUlfcEtYbEtfUmZpNQ?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "연합뉴스",
+      "published_at": "2026-10-27T08:09:28+09:00",
+      "verification": "headline_only"
+    },
     {
       "title": "[AI MY 증시전망] 美 증시 반등에 코스피 상승 출발 전망 - 뉴스핌",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YbGFxeXZFOGg1aUlzV0lyUzlNS2ZiejEyOWVOU0U4SzJvV2x3NXk4czV6TWtSdk95bHBlcDAxbmNKVk1GdmtsQmpYa0NUWm5LWXRNdEJOYVpuQ1Bt?oc=5",
@@ -14,6 +59,24 @@
       "category_id": "stocks",
       "source": "뉴스핌",
       "published_at": "2026-10-27T08:08:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "'삼전닉스'에 다시 불붙었다…코스피·코스닥 나란히 4%대 급등 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GQVNmczBNMFJSbWFQNU1OOGJZLUNEaUVqRWJYVDNPQ0V3QVJuaDROZVotR0g2WkRnamFOVGVqMm1IUGxyT01KYnlZNVk2cmN3MmxWbzhLZ0JvQdIBVEFVX3lxTFA1QmZNMHU0Z2IybWMyeXZSQVVBY0lUUGVTbGlOY0d0UFJJVjM3N19MVHowSURGdGxtVEppdWxYbVFjVjJhaHFEa2pNbkRCSVI4djFhdA?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "더팩트",
+      "published_at": "2026-10-27T10:42:03+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "코스피, 앤트로픽 훈풍에 장 초반 4%대↑…5700선 회복 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IdDlSTExfYWFwRllfOUIzd3YwWDJwbUpPaXF0ZTd6cWVGdEJEYjlwU3lWUmJWaVJUU3AyN2JBbkJURWpQR0xscnF3MVY3Ml9veS1wOWJVLU5nQjRHUTRFXzhLQXN0YXAySFpZbg?oc=5",
+      "category": "증시",
+      "category_id": "stocks",
+      "source": "스페셜경제",
+      "published_at": "2026-10-27T09:50:22+09:00",
       "verification": "headline_only"
     },
     {
@@ -35,30 +98,12 @@
       "verification": "headline_only"
     },
     {
-      "title": "[장마감] 코스피 1.46%↓(5469.47), 코스닥 3.26%↓(727.21) - 버핏연구소",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBick1kX3VrY0cyS25aN25WazJtNndiMVBNLXVBWUE4MGEyQmNtTVlxenNkbWlsSTdhNzhmbXppWUhaNUEzTUxKNXEzREZTZVA1ckVIZzNrUnZOTlMxX3RVcG9n?oc=5",
+      "title": "코스피, 반도체 주도 속 반등…삼성전자·SK하이닉스 강세 - 직썰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZcUZYV09KdTlHZnl3UlNaRk9FSHZxVHhXUkxScHRhY01QWjRYZk5RN3c3aHpNNUwwZ3VsZFo2aDR4eDI2Z0pFR2psZ1NFRV9uWHV4cmVsUktPWG9tcnhDWlBZRm5Hc2J3VGlXaNIBbEFVX3lxTE1ZcUZYV09KdTlHZnl3UlNaRk9FSHZxVHhXUkxScHRhY01QWjRYZk5RN3c3aHpNNUwwZ3VsZFo2aDR4eDI2Z0pFR2psZ1NFRV9uWHV4cmVsUktPWG9tcnhDWlBZRm5Hc2J3VGlXaA?oc=5",
       "category": "증시",
       "category_id": "stocks",
-      "source": "버핏연구소",
-      "published_at": "2026-10-26T16:15:39+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "[증시 레이더] 코스피 ↓ 5,469.47⋯7개월 만에 최저, 코스닥도 3%대 급락 - 포커스온경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdV82cWZ6cVB2bGhIaWd6NUJZY3FRZXBtakdVb3BnQ2NfMHZXdmpDZndBNFhoTHc4dExIbnJSaDdIZVhaa0U3SEFlR3FqWXF5RmRpWHJhLWpUZTNVelhhdw?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "포커스온경제",
-      "published_at": "2026-10-26T15:56:06+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "코스피 1.46%·코스닥 3.26% 급락…外인 7000억 '팔자'에 동반 약세 - www.ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YNFd6RkMyQlFEOUdScm5tXzJlOWhjSFF4REtZRC1Ob3hJOFNyYTFOWWRDOTJ0SDIxOGlDM2p6QmFfWE9XMm5SSXdCdzZzSGpyY1REaXVCQTM3cUp0cENZdFByYVVQOUdj?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "www.ebn.co.kr",
-      "published_at": "2026-10-26T15:52:14+09:00",
+      "source": "직썰",
+      "published_at": "2026-10-27T09:49:06+09:00",
       "verification": "headline_only"
     },
     {
@@ -71,57 +116,12 @@
       "verification": "headline_only"
     },
     {
-      "title": "코스피 5,500선 붕괴… 1.46% 하락해 7개월 만에 최저 - 애드뉴스인천",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uX0VURGhGX1BBSEpuRzNXWlNXWFRfVlhjRzhtWFltRlk0aV90anpidHhPVHVwZ2ZFOVdOLVh6VWlPNFJnZ1NIUkQweFR0MENHODk5NHJYQWZvSHFoVUFLeVZNUGgxcnJxa1Bj?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "애드뉴스인천",
-      "published_at": "2026-10-26T16:45:00+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "FOMC·실적 앞두고 얼어붙은 증시…코스피 7개월·코스닥 3개월 만 최저 - 메트로신문",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tV0t4WG1saUY5RGZBNTVGUDJlakczSWIwdDJfNnZsalgtVzJDRXFDU1hldjlpSENJdjdaX2lBN1dBQk5SbHhlbHdQR2UydU9FNE02R3pCV0VoWmFwMmJ0Ng?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "메트로신문",
-      "published_at": "2026-10-26T15:38:52+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "외국인 매도에 코스피 5,500선 붕괴…7개월 만에 최저 - 산경투데이",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53OUNhWHhCbEhoWVNoQWVtZmF5NXFzTFJzMEF2d1d5cVZxVnk0QkVjRG1Ed3ZHcWNxaXBTRi0ybnhyMDhrNkwwLVQ3bEZzM1ZhVGxnUUtnem43RmhrTUwxakgyMTRpZk4zal9lWnAzMlTSAXRBVV95cUxNOHVfcHJXamRySU0tdmgySnlraEhpWWd1VFR6THJCWWd3UnBDWVBRY21QeE1mWUpUVHdBNUJianRueHlaVzg4WkxPOFd3OFpWMVpUcjVzdHRrOWVjVVRpaFhuWGgwMG1uRU5wSDJKelFXcU16cw?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "산경투데이",
-      "published_at": "2026-10-26T16:38:23+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "[오늘의 증시] 10월 26일 코스피 코스닥 - 뉴스1",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91bjRCd3QwT0ZUY05qd0tudTdJUlpvRmcyc0tyVTgyWHVXN01tMHZ5ckY4STZjTkpDNW1nWEVrTGoxVERBSzFITXhYNA?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "뉴스1",
-      "published_at": "2026-10-26T15:37:30+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "일본 13%·대만 8% 빠질 때 코스피 넉 달 만에 반토막 - 부산일보",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSUUhIT0tFNlpsb0FiR1NVd0wzV0R6Q1VRODdHLV9mQmN2S3h0N1YxMUozT1h2dGkxSlZuM2stWmtvQllKZUoyWnpRTkJvcVI0XzEwQ3lCMWZjQUx1TEpFZGU4S2pzRkl4bTMzTWE5eVFHMDRn?oc=5",
-      "category": "증시",
-      "category_id": "stocks",
-      "source": "부산일보",
-      "published_at": "2026-10-26T17:41:41+09:00",
-      "verification": "headline_only"
-    },
-    {
       "title": "환율 1300원 시대, 부자들은 지금 이 자산을 담고 있다 - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVJSOTRCZEJ2Mlh3Y052MWtlZzVjOWt2RGU4VUFQTW9uaUtpQXVBbV9BeFVHSFJ1Z21Od0c3Wk9YSDVMdy1RbmpWRDR3dHRmeVVSa2FZNUtsLXVsMXdERm42aHdTemNtVzVqc2ZhY1pFbmhnNkNoY1E0Y3RCZmV0cQ?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
       "source": "조선일보",
-      "published_at": "2026-10-27T05:30:00+09:00",
+      "published_at": "2026-10-27T05:31:32+09:00",
       "verification": "headline_only"
     },
     {
@@ -143,21 +143,30 @@
       "verification": "headline_only"
     },
     {
-      "title": "미국보다 나은 한국 경제성장, 원화 강세 모멘텀 지속 - KB Think",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NRVZCNlRsOHR0RWtTVF91RTBaR0NUY0tCNnhxQzVIZ1ZmV25tRnlQYlhTQmpCVjFGVzZTQWpBY29hM1laR1hwVEdUNHRUdl9ucjU3SEJVcm5HTWFUUEdsb1Rn?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "KB Think",
-      "published_at": "2026-10-26T09:59:18+09:00",
-      "verification": "headline_only"
-    },
-    {
       "title": "이달 소비심리 한 달만에 재하락…\"증시 부진, 중동 불안\" - 노컷뉴스",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkdDRrMkVHYTRiZC1fSWpEYWctYkhJTVVVRHBkakd4RlpRaWQzU2VybEd6VlU5el9CZEVacWQ1YUJxaVRGbHRaZ1p5NVo5SUg1Umc?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
       "source": "노컷뉴스",
       "published_at": "2026-10-27T06:00:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "금시세 27일 하락 - 게임톡",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CTnNwMjRlQnBYWXB1QXNlOGtiejNWRV9QeE9GQzVaZk83NlJJYmhfakJET2ZVSVQ1U0VsYUg3R1BJVndLbVVvZ3lUbmhCYldDeDF4aWZzQm9wSlo3ZFdMU3E0V1BpbnMtOV9LNA?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "게임톡",
+      "published_at": "2026-10-27T11:59:40+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "FOMC 앞둔 미국 경기, 금리 인상 효과 언제 나타날까 - 중기이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYjJNVWRtdXZJZ05pNEE3SFFBWVk1NmE2UDZCYzBmTWVvWEVBdHJNa2NSSnFRNWNESU50b3BwWldMQzg4dmtYMTFHSEFUTkY3V2o5ekJCeVVuNjdndW5BV18wc25kNzM4dHc?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "중기이코노미",
+      "published_at": "2026-10-26T14:48:46+09:00",
       "verification": "headline_only"
     },
     {
@@ -170,30 +179,12 @@
       "verification": "headline_only"
     },
     {
-      "title": "원화 강세에 쭉 무게 싣는 신현송…실효환율·물가·내수의 '셈법'은 - 연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HSDUxWTdsaGFpZ3JnZlA4Zi0wOUFTQXZBeXB6WXZHZGNhQmNHYXVGaTdhNTNtd0tpSzA0QnFHcVhfbTltWVVKU0VxU2tSTXExZFp0UmRaTFNZM0lxMXJwcWZkaS04Q1F3b085V290OTc?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "연합인포맥스",
-      "published_at": "2026-10-26T10:32:13+09:00",
-      "verification": "headline_only"
-    },
-    {
       "title": "[로드뷰] 신현송 한은 총재 \"호황 때 쌓인 빚이 위기 부른다\" | - 뉴스로드",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05VU5UMXJJTG5icTU2LUVtZzFLNDNVOEV3aGZMRXNZNTJaQXE2R0tYa1A3U1Q0TDFHdGRDclBNblVYVWpWclBtQTBXeU5wbHpCdUQtWEVmRlBvYjdObjNNbEZqRE04R1hGc2pvaDg2WQ?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
       "source": "뉴스로드",
       "published_at": "2026-10-26T13:50:39+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "“노동시장 유연성 있다면 AI는 청년의 무기가 될 것.” - slownews의 토론 | 내 손 안의 광장, 빠띠 - 캠페인즈",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85cjdDU19Kckl2TmpJR20yRmV2VUlSSVowTlZCVWFkN3dRRHVFalFPeU9nTW91NkpxdFMzZ1BnaFlaTGdxTXlkZUZpVzdHQQ?oc=5",
-      "category": "경제·민생",
-      "category_id": "economy",
-      "source": "캠페인즈",
-      "published_at": "2026-10-26T15:47:11+09:00",
       "verification": "headline_only"
     },
     {
@@ -206,21 +197,48 @@
       "verification": "headline_only"
     },
     {
-      "title": "[박혜린 기자의 내돈내굴] 금리 악재 반영된 금값 반등시기 언제쯤, \"저가 매수전략 유효\" \"내년 1분기까지 기회\" - 비즈니스포스트",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wN1l6dnJWNHNvb0l1V3A4SDUxcm5sdmVsbE9IQkpNeUJ4X2VfV3lDSWdDcWNZcFIzWVcwZjk4SlhjelV6LURFM3dWbERkN20zMjV5cGpxV3RreUQ0b0J0ajF0QTBYaWFrM0FHLVl1aUpKb2M?oc=5",
+      "title": "국제유가 급등에 한국 증시도 흔들…고유가 충격, 물가·기업 실적으로 번지나 - https://www.ppss.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQ3lqZ0gxRkhNTS1nTlBHVU1JSHBCUWRtaWRoeGZSYmVycV85dnROd3ZzN2dLRDh1X2JqcDNkRXUxUDZKTnBlWFlNc0JjS3ZHM2JTeGxWV29OTFNLRGZfdjZrUHc?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
-      "source": "비즈니스포스트",
-      "published_at": "2026-10-26T16:47:39+09:00",
+      "source": "https://www.ppss.kr/",
+      "published_at": "2026-10-26T15:20:54+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "물가·성장률·가계대출…한은, 11월 금리 결정 고심 - 내외뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqZndXUGlYbm80c05YZTR0UDlra0prX3UxbnVJbVRnd2dpSXc4NGozMHJENUJXLTJwRUo4S1lkc0NiNUNuTGlRWFRUZG9zR0VxQWN5akpXd09RdF9jM3FpZ1BxSWFBYUZndGVMWQ?oc=5",
+      "title": "교보證 \"달러-원, 내년 말 가며 'U자형' 반등…해외투자 지속\" - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdUNYMjdjZWVIV1NPMzdDMTNsQW9vVXIxVHZQekVNVnp5OEtzbFpEM1BCSVF1YjQzUG1WblBUY3NpU0dGTDlrM0U1aURxR1BOTjNrLVBLU0RYb1JrSkpXbEczaWhjcWs4NlNadTI5aHRPQQ?oc=5",
       "category": "경제·민생",
       "category_id": "economy",
-      "source": "내외뉴스통신",
-      "published_at": "2026-10-26T09:54:50+09:00",
+      "source": "KB Think",
+      "published_at": "2026-10-27T09:22:24+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "원/달러 1320원대 초반…원화 명목실효환율 94.83, 2년 만에 최고 - ISSUE ON (이슈온)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvMlo4Rnc4al9MN1ZBS1BHOEdyRVJYZFlWWVVMSjZyUEJtVndxTEVtc0VnVWZrS29pTjBNby1PaHVxSW04bnZ3b0dOTXpnNUlvc2xfbEJmWUFWVFp3Z1h2RGc1U2FnR0N6b0pF?oc=5",
+      "category": "경제·민생",
+      "category_id": "economy",
+      "source": "ISSUE ON (이슈온)",
+      "published_at": "2026-10-27T10:43:59+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[속보] 李 \"사정기관 공개회의 참석, 정치적 중립과 무슨 상관있나\" - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZRUEzQWpUUFRiYzFaY09vUHB6WFpzd0tIT0c5ckozcmVPZVBfWmNUQUYwY0hYbWdrcjhqX0ZrcDRaV1JubmZMTjJEOGk?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "아이뉴스24",
+      "published_at": "2026-10-27T10:31:54+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "2026 한-아세안 포럼, 11월 6일 싱가포르서 개최… CSP 발전·한반도 평화 협력 논의 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTVwalA0amp2VS1RY3VVb3NMR2EzR0k2RzRxalVTOVE4c3BhRWZ5MFljbEh6aENWNlRYbHNXRHRhZHBSNmtmcmVBb25EUVBQWG5TbFVPUjVXcFJ3cDJhSm9TcDRucnJEdGNlZWVPVnF6ejUwWDBZOG9yRjlGT1diUFpXWHpZSUZXSVVydmZVcHRLN05oWVFaQlI2emRHRW1B0gGgAUFVX3lxTE9VNXBqUDRqanZVLVFjdVVvc0xHYTNHSTZHNHFqVVM5UThzcGFFZnkwWWNsSHpoQ1Y2VFhsc1dEdGFkcFI2a2ZyZUFvbkRRUFBYblNsVU9SNVdwUndwMmFKb1NwNG5yckR0Y2VlZU9WcXp6NTBYMFk4b3JGOUZPV2JQWldYellJRldJVXJ2ZlVwdEs3TmhZUVpCUjZ6ZEdFbUE?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "Chosunbiz",
+      "published_at": "2026-10-27T09:03:08+09:00",
       "verification": "headline_only"
     },
     {
@@ -233,21 +251,21 @@
       "verification": "headline_only"
     },
     {
-      "title": "美중산층이 사랑하는 식당인데… 오바마, 트럼프 때리려다 실언 논란 - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXkwRlN6WW9PYXluLXU4VTdhZTIwU3RjWFZUU1hlX1ZkbVE5SVRwR3oyZWNMLVZQVHVMdXYzVGJhRkhBcXRJQ1ZKTDdidVl2NXpVWjdpLXJxWnBuOVNMNmtyQ05USXVxSEJoVlgyUlpid3hFU2NlTVNhR0QxS0duUlhFN0c?oc=5",
+      "title": "외통위 종합국감 격돌…한미동맹·김정은 방중 쟁점 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xMU4tMHE2M0hqakpnUG1CaG9MNVFlb2MwLW1EQ2pyNWFNalpRLVh4RWZCT0kxeWJ2bk85ZGl6SFVOTFdZcUFoRzBlZmQzbEN0UkJhNEZocXNUMmg0cGFUUWVXMzREQk9EYWFUaw?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
-      "source": "조선일보",
-      "published_at": "2026-10-27T06:04:00+09:00",
+      "source": "스페셜경제",
+      "published_at": "2026-10-27T09:06:20+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "다카이치 내각 지지율 45% 유지…장관 경질 논란에도 큰 변화 없어 - 재팬코리아데일리",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zUlNYN0tlLWNiXzJWcGJzamtFRkJyZElReWhQcUNsclc5ajMtWVFnX2MzZXpBUDRHeXBXRlQ5U2pHOE9sSTFaQnlabDhoeWlIMFo3ajNtRlhOcUdJQmZTSXJaQXdadnNxdjVmMQ?oc=5",
+      "title": "[인사] 동행미디어 시대 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jeE1oN3AwN0lqMUNEelRXeUpPOG1sU3NTTEU2cGNGZzFxODhKRi1Bc1ZabUdkLU8xckFDcWZDYVM4ZDloWnZmYkZzN0l0SGxyOFF0aUVsQ3dURi02VENuLVBMZlk1b0ZsQmVXWGZIMHfSAXBBVV95cUxPY3hNaDdwMDdJajFDRHpUV3lKTzhtbFNzU0xFNnBjRmcxcTg4SkYtQXNWWm1HZC1PMXJBQ3FmQ2FTOGQ5aFp2ZmJGczdJdEhscjhRdGlFbEN3VEYtNlRDbi1QTGZZNW9GbEJlV1hmSDB3?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
-      "source": "재팬코리아데일리",
-      "published_at": "2026-10-26T17:19:54+09:00",
+      "source": "머니투데이",
+      "published_at": "2026-10-27T08:48:21+09:00",
       "verification": "headline_only"
     },
     {
@@ -260,12 +278,21 @@
       "verification": "headline_only"
     },
     {
-      "title": "北, 유엔 안보리에 서한…\"지뢰 폭발은 한국 자작극\" - 매일일보",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhVUtiYjJ6ZnJtejMyNVdVUFZ6NUN4UzZlZ0lPdkhnX2JINkU5R1dXTEF1QjBPZmRFXzAyaVZKQXhIRXg0VEs1QlhadGprbFJTVHYtdGE3NW1ZVHd3SHIxU2RaNU0?oc=5",
+      "title": "다카이치 내각 지지율 45% 유지…장관 경질 논란에도 큰 변화 없어 - 재팬코리아데일리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zUlNYN0tlLWNiXzJWcGJzamtFRkJyZElReWhQcUNsclc5ajMtWVFnX2MzZXpBUDRHeXBXRlQ5U2pHOE9sSTFaQnlabDhoeWlIMFo3ajNtRlhOcUdJQmZTSXJaQXdadnNxdjVmMQ?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
-      "source": "매일일보",
-      "published_at": "2026-10-26T08:46:39+09:00",
+      "source": "재팬코리아데일리",
+      "published_at": "2026-10-26T17:19:54+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "통일硏 \"김정은 방중 때 북미대화 조율 가능성…韓패싱 우려\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxVW9Ja2RfdHVFTEhacjdpMml3b3plNUpqem5UNHFxQ3Zib1UxdU1QYTJsUm1UMmlrVGRQb2JnNllVQktMQThfSDR2Q3JRVld3blRXM3pEaWxqcWs5QlozSNIBYEFVX3lxTFBxVW9Ja2RfdHVFTEhacjdpMml3b3plNUpqem5UNHFxQ3Zib1UxdU1QYTJsUm1UMmlrVGRQb2JnNllVQktMQThfSDR2Q3JRVld3blRXM3pEaWxqcWs5QlozSA?oc=5",
+      "category": "정치·안보",
+      "category_id": "politics",
+      "source": "연합뉴스",
+      "published_at": "2026-10-26T17:13:23+09:00",
       "verification": "headline_only"
     },
     {
@@ -287,24 +314,6 @@
       "verification": "headline_only"
     },
     {
-      "title": "통일硏 \"김정은 방중 때 북미대화 조율 가능성…韓패싱 우려\" - 연합뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxVW9Ja2RfdHVFTEhacjdpMml3b3plNUpqem5UNHFxQ3Zib1UxdU1QYTJsUm1UMmlrVGRQb2JnNllVQktMQThfSDR2Q3JRVld3blRXM3pEaWxqcWs5QlozSNIBYEFVX3lxTFBxVW9Ja2RfdHVFTEhacjdpMml3b3plNUpqem5UNHFxQ3Zib1UxdU1QYTJsUm1UMmlrVGRQb2JnNllVQktMQThfSDR2Q3JRVld3blRXM3pEaWxqcWs5QlozSA?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "연합뉴스",
-      "published_at": "2026-10-26T17:13:23+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "한·미 최악 시나리오는… ‘중국이 대만 공격할 때 북한은 대남 도발’ - 문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvUFBMeVBBZ1lZTF95QzhrN0xIWjE1X2kyQkxVV1I4TnBoQmQ2a0Nua0ZxQ2cwS1p4aHpVcDQ1Z1gxTzJmZTN4bDM1V016ekU3?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "문화일보",
-      "published_at": "2026-10-26T11:52:28+09:00",
-      "verification": "headline_only"
-    },
-    {
       "title": "이준석, 美 코리아코커스 공동의장 측 면담…\"韓 안보 무임승차, 동의 어려워\" - 더팩트",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3NDRVZmlaX0NGWUtsNU1XczFiLWR1N1hCYkRQSHdSbmowOUpvcFpUOVJSdEtyY3RzT0xmSUZuZnJtUlFfOThUdjBuRjh4RzJBNWtoSmFuWG7SAVNBVV95cUxONlE1akJ0YUpOd2wxLUhiSFNrNWRueHIwRDRVZ2xzUEc2a2dxSlh3M0E1U19xMU1MLTRySEpKTDZtbkI1STBjZ3c3VGlzZXJ2REQ1QQ?oc=5",
       "category": "정치·안보",
@@ -314,21 +323,48 @@
       "verification": "headline_only"
     },
     {
-      "title": "[포토] 질의에 답변하는 강신철 국방부 장관 - 아이뉴스24",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pd1RjSmMydDRaNG1TTUZ6cTBESThyZDE4a1lZVHp2QWlSZy1TbkpqR2RyNmdqNDFhWGlpR01FV2ZtY3MybkIyWVdQUQ?oc=5",
+      "title": "한병도 \"주진우, '사이버렉카'로 전향하는 게 어떠냐\" - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xQl9kSmNxd3A1aHR5WWdVTlFmSGZPRVJWRGE3eWlBekEyQXgtRHpvcW80WXBWSW5qX2l0ME9sVkQzV0xFWllZdEROcw?oc=5",
       "category": "정치·안보",
       "category_id": "politics",
       "source": "아이뉴스24",
-      "published_at": "2026-10-26T15:03:18+09:00",
+      "published_at": "2026-10-27T09:45:06+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "\"北김정은 방중, 북미대화 사전 조율 가능성…韓 패싱 우려\" - 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlWHRwdGpCamxoOFlRRHBWT3V5aFZ4VzY5el9CMklJTERpMWNIZFVWZEhuTG9jZk1hYUJPdFNxR0w3alprOEdiT0hXYmcxTWZiN2FpNTg3TQ?oc=5",
-      "category": "정치·안보",
-      "category_id": "politics",
-      "source": "데일리안",
-      "published_at": "2026-10-26T16:00:00+09:00",
+      "title": "트럼프·네타냐후 동반 시험대…선거 후폭풍에 국제사회 긴장 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaaTlqYzdJZ2RGREpTWUVHRnZGbmJaNDVXMEVaNUU3eWt5emdxVmtRVVZZRUlJMVZKNDFoUTFFNVc5ckdMN21UempPeGdvejlTOXN5b2VTYnpiWUXSAWBBVV95cUxQWjVpbjd4ZmU0M1I2Y18xOHgtWUo3VHZTZU9VTDhMUHNtZk5NM1dTdXdlT2FYWlZpTDUxSHVGenVydmo5YkcxbmJhY3F3UEZOTGtyV3Ixa3NGU2ZBZzhmeGc?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "연합뉴스",
+      "published_at": "2026-10-27T09:59:44+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "이창용 \"韓 경제 위험은 반도체 사이클 조정\" - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yeGVNaDFOb1dSS3F6ams2RWdwODFXRElaSmZCcDVNUVlUZGl4ZHRHc2FWVWo0alpOWnV4SEtCNFFjalUwYjRJZ0FFcGdnc1lLcG1MYmZ4UTIxMDFlclR5cy1WMlVrcFphaGVLQzVYZndJUQ?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "KB Think",
+      "published_at": "2026-10-27T11:31:37+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "11월 미국 중간선거의 향배 - 전라매일",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLWlNZcjN5QjZGaDVDbU9JY3R4ckQyV0ZuTkVlYkd4WG5nSVlkTTdkQjBOenZTaGR5NjRQVWxZdGVYTXRpT191SlROTjBZc0hTQVE?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "전라매일",
+      "published_at": "2026-10-27T12:17:00+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "브라질 룰라 대통령, 사상 첫 4선 성공…보우소나루 패배 불복에 정치 갈등 - 뉴스워커",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50WF82aGl5R3NLWFlqQ21oMktkLUkxZktaQUZJUkh4NmlMbExneDNxc0VfX0d2UmRKa0tKRllnNmV0R0g0RXc0OXBvd2hldlZlejlNcTlzMmExNHYxaFpwVmRwMHNuMjNjdy1yTFJUQW_SAXRBVV95cUxPNURvSTZ3MkFRZEFGbi1uOGRCb0lxYm9vVlFxM1JleUUzQ09YZzdkcmZfVTBjMHJMLVJFMlZzWnFaRWt5VWczNEtaSm5Iak43dGFUbnNadWVFVjlNWEVzZmJ5UHpJRlFDTm9mdnpNaHM2b05MUA?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "뉴스워커",
+      "published_at": "2026-10-27T09:33:24+09:00",
       "verification": "headline_only"
     },
     {
@@ -341,15 +377,6 @@
       "verification": "headline_only"
     },
     {
-      "title": "[교실 밖 생존교양] 미국 중간선거, 세계가 주목하는 이유 - EBS",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdElsdEluWmp5UVVVVW9JV1U1OEI0RGdZRkEzOFZfczB5YkRvZlNSaDJ5VWpSWks3dlNhUHU1V1lNWlRRLTNFdE9IQ0pWeng1X285QVlmelFmV09QRDhnUUQxeUdPb0hVOXo0N2w0VGdXeXhSQW5ySW93NC1penNMTE5zMDY4SUxZem1qdmh0SQ?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "EBS",
-      "published_at": "2026-10-26T19:01:34+09:00",
-      "verification": "headline_only"
-    },
-    {
       "title": "[21세기 국제정치학의 대전환 ③] 미국 패권은 끝났는가…단극체제의 균열과 새로운 다극질서의 등장 - 르몽드디플로마티크",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tSkZxR0RzaXJFWUtDQWVsampRbWtmS0NjaGxBV0pMY0xJYzJkMExiS1ZJZ1N4ZExQVFRnRHBqNVZjd0g5OUtpTW14RHNodC05SmNfR1JSTF9EVmE5RVlxSktzM3h1UThBRWfSAW5BVV95cUxPQXRxaWZEeHNGVFc0NXNZVWFmY3dJSVYxV20zUHlFRzEyS1BsSlFUYUFmYU5KTUtpR1ItTWNBWUw0djVwQ0Qxb251YlVRVU5kUXJ0VjZJVnp3UkhFczBrTGdQdzhhZVhFLU5EN3VUdw?oc=5",
       "category": "국제",
@@ -359,21 +386,48 @@
       "verification": "headline_only"
     },
     {
-      "title": "룰라가 이겼지만, ‘내란 세력’에게 고전한 이유 - 시사IN",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vLS1vXzV2MXlYNVN3eHhWSXdLZTg2TEpUSzJPYVFlclc5UVY2QWcwaGxaaGEtOG42UHg4YnpUTzJ4X21nZUl6TUtockUzd0k0Y1NYejdMOHZNV1ZLUkZvNXZkUkJENUhjX1E?oc=5",
+      "title": "(음성문화원 주최 국제미술제, 세계 10개국 30여 명 작가 참여…국제 미술 교류의 장 마련 - 문경시민신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YZ1pmNmtjTW1lcUcyaEZ5ZWdITUtlNTAxdXJqUnJOZWQ5ZVBkc2piWk9jMjUzdXdfdWtJUzU1QTNiQzBDQTVyT1NRTlJxQQ?oc=5",
       "category": "국제",
       "category_id": "global",
-      "source": "시사IN",
-      "published_at": "2026-10-26T23:12:14+09:00",
+      "source": "문경시민신문",
+      "published_at": "2026-10-27T05:03:00+09:00",
       "verification": "headline_only"
     },
     {
-      "title": "부산진해경자청, 투자유치·지역상생 ‘두 마리 토끼’ 잡는다 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yVG5MT0FmRlQybTl3ODJrZVd2cGxmNFZnNkQxLUFtajZxSlBkbjNmX0NqTnFxYUZwaHpoTk5mbm5JTHhKOVMzLXR0Nk82Z3EweW5IRGdpT1YzLVFEX0VMOUJ6NWVCdjRtYVo4M0F3d0kyUQ?oc=5",
+      "title": "[교실 밖 생존교양] 미국 중간선거, 세계가 주목하는 이유 - EBS",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3pIbGVXdjFnRnJsUDE1d01LMUhyeXZWNlQ2S2ZsLVBwaGZTbTh5WUp3VEVCQklhZlF4ZjkxU0lhTEZLZkppTDlCb2FfZkM3N3VlendsQ0g0ZkdrZE5YN0FaQ0RCaUJHREZQajVmenM3LTVKNGdNaXVrbVBfUnp0Z2pOMGRVUDZFSkplLWlXUkdRRnk5QVE?oc=5",
       "category": "국제",
       "category_id": "global",
-      "source": "인더스트리뉴스",
-      "published_at": "2026-10-27T00:10:37+09:00",
+      "source": "EBS",
+      "published_at": "2026-10-26T21:16:25+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[세계현안] 페르시아의 화산 아래에서 - 통일시대",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwWmZGa0J6TVFzaWd4cHR1YWhXSjZqNmswdVhoekxTRi1UeDRKaFBRVElHUl95WW9ZREZoa1NvUDdjenpGLTNjV3N0MS1kcEptckFuT2ZZMzJHbWV4cEdSTlNubVRIakxMS19xVQ?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "통일시대",
+      "published_at": "2026-10-27T00:49:58+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "[오늘 금시세] 10월 27일 순금 1돈 얼마? - 금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52S2UzQ2RQLXJUeFJjREJITWdjZkNjcFVYME9BSUNTYlFDVlJWcHlCcXJ6dXNoODRDdThSNzhUXzVJYmhXcXVOR1k1OC0tZURoRjhiRnhxdEktZXdhalAxVkFrelNVOUdkU1E?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "금강일보",
+      "published_at": "2026-10-27T10:43:10+09:00",
+      "verification": "headline_only"
+    },
+    {
+      "title": "나침반｜선거에 져도 전쟁은 못 진다?…트럼프·네타냐후의 이란 도박 - OBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCR1owN1d6SVd0VHZyNGI2X29MbzJXQ19CWjFEbGVKVm9GbkdOdjlBcHRuYzlEbzBqVHlxaTJNU2VkSmJtLVkwU1FuOUhyMUlmUDNQMlM3RFMtVkZlYVJuVi1VNFJoeFlE?oc=5",
+      "category": "국제",
+      "category_id": "global",
+      "source": "OBC 뉴스",
+      "published_at": "2026-10-27T00:18:50+09:00",
       "verification": "headline_only"
     },
     {
@@ -383,60 +437,6 @@
       "category_id": "global",
       "source": "파이낸셜뉴스",
       "published_at": "2026-10-26T18:28:25+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "베트남 – 통합을 도모하는 국가에서 국제 사회의 신뢰받는 파트너로 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTd4S1FRbUxYZWNhNW9ycjhvQmNEMFBSNl9MVU1HWlg3REFmWXI5Ul9IRktlZDNPb2pPMGRDNVhmMzZveWl5S1JyTEJJN1dQQmVVVVpzM1lLTTFKWENUNWpENjVXNEhfdDl0RXdHNlg2YlM1azB6b1VaTU5aV3R2M1RrWUF6b1ZIX2JpZnl3SmN3dzZFRlVkblFqaVM3MzJoTWtERzNPYWg?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "Vietnam.vn",
-      "published_at": "2026-10-26T14:00:40+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "李대통령, 연일 '경제 성적표' 강조…“성장의 결실을 국민 모두에게” - 전자신문",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZTzNnUENzV0xnd0k3NmNfYzg0aFZaUHBibk9XV0d1WTlyMlNleVdCZXN3dDV1clhUcnlaRVpiU2M4Z2NXejdYUkI5MkIzUQ?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "전자신문",
-      "published_at": "2026-10-26T18:27:30+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "브라질 못 넘은 ‘중남미 우파 물결’ - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN25VWFJxYlpCRzE5RlhqdnpRMkl5QXctSjhJTVVsMzF6Nkpsa2EtckNtZVh6ZU9hZEZXby1FLVFyaF9NeGJyWU9wWURJRFp0Z2hVVTVvRGk5cDJEOEtjeGVaMl9QamlwY0xPd0ZLVUVtYXBlZkJvWnZmVkJEeW05dlktM3E1cjBxNkh0Wk1mWW5zLTRIM2tKWldKYWF3UQ?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "조선일보",
-      "published_at": "2026-10-27T00:55:00+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "1차 패배 딛고 역전한 룰라…한국 경제 득실은 - 일간투데이",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzS0hwZUowNFhSRVMtOF9FYVVwOHJLSWNoeENjLWhFMkpqSmROeVNnUXZkcTFKaWhVbVZDbXFkYjhtNzVxelZfcDhDaE1kOHcxcFJJdnlnWmFibjgyV0xSZFFGMGpNbzItZkxj?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "일간투데이",
-      "published_at": "2026-10-26T11:31:20+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "미국, 이란 재공격 카드 꺼내나…트럼프의 '군사 압박 외교' 중대 기로 - 시사매거진",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1acndpdVhYRnBvTThIQ1Z0c1NGLXVNdmNQVUhhRk5UbWR3Ym5sUkM3eDM1Q0xRejlrc0lvNVFzTV9MbXRLUWdSMFZUa3lqd1ZteVNualpTczMzdUlYTjNQVFdB?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "시사매거진",
-      "published_at": "2026-10-26T13:28:45+09:00",
-      "verification": "headline_only"
-    },
-    {
-      "title": "김정은 단둥 방문에…전문가들 “북-중 경제관계 긴밀해지는 흐름” - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ORnRNQTNOYVdlRC1FTkxKVnRIVXduNUo4enc2eVliOTlWcHdRMVhTZkllUGRKWkNzSnBtX1RYQWxKVmk5N2NUU01OUGVCcDhZcDdhdWxDRkJNLW8xZmtsY2dmY0pOSl9fRTB4ag?oc=5",
-      "category": "국제",
-      "category_id": "global",
-      "source": "한겨레",
-      "published_at": "2026-10-26T12:06:00+09:00",
       "verification": "headline_only"
     }
   ]
