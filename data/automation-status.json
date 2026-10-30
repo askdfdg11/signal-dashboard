@@ -4,22 +4,22 @@
     "collection": {
       "state": "collected",
       "message": "공개 RSS 제목·링크 수집 성공 · 심층 분석과 별도",
-      "checked_at": "2026-10-30T13:15:54+09:00",
+      "checked_at": "2026-10-30T20:25:55+09:00",
       "count": 48,
-      "file": "data/headline-archive/2026-10-30/noon.json",
-      "scheduled_at": "2026-10-30T12:30:00+09:00"
+      "file": "data/headline-archive/2026-10-30/evening.json",
+      "scheduled_at": "2026-10-30T20:00:00+09:00"
     },
     "analysis": {
       "state": "disabled",
       "message": "심층 분석 자동화 꺼짐 · 기존 브리핑 보존",
-      "checked_at": "2026-10-30T13:15:54+09:00"
+      "checked_at": "2026-10-30T20:25:55+09:00"
     },
     "execution": {
       "state": "scheduled_run_observed",
       "message": "GitHub 예약 실행 이력 확인 · 예정 시각 대비 지연 가능",
-      "checked_at": "2026-10-30T13:15:54+09:00",
+      "checked_at": "2026-10-30T20:25:55+09:00",
       "event": "schedule",
-      "run_url": "https://github.com/askdfdg11/signal-dashboard/actions/runs/41001911579"
+      "run_url": "https://github.com/askdfdg11/signal-dashboard/actions/runs/41048022982"
     }
   }
 }
