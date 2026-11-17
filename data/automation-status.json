@@ -4,11 +4,10 @@
     "collection": {
       "state": "failed",
       "message": "일부 분야 수집 실패 · 마지막 정상 기록 유지",
-      "checked_at": "2026-11-17T08:37:12+09:00",
+      "checked_at": "2026-11-17T13:25:31+09:00",
       "errors": {
         "stocks": "HTTPError",
-        "economy": "HTTPError",
-        "global": "HTTPError"
+        "economy": "HTTPError"
       }
     },
     "analysis": {
@@ -19,9 +18,9 @@
     "execution": {
       "state": "scheduled_run_observed",
       "message": "GitHub 예약 실행 이력 확인 · 예정 시각 대비 지연 가능",
-      "checked_at": "2026-11-17T08:37:12+09:00",
+      "checked_at": "2026-11-17T13:25:31+09:00",
       "event": "schedule",
-      "run_url": "https://github.com/askdfdg11/signal-dashboard/actions/runs/43980826470"
+      "run_url": "https://github.com/askdfdg11/signal-dashboard/actions/runs/44017073184"
     }
   }
 }
