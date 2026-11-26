@@ -2,12 +2,12 @@
   "version": 1,
   "components": {
     "collection": {
-      "state": "collected",
-      "message": "공개 RSS 제목·링크 수집 성공 · 심층 분석과 별도",
-      "checked_at": "2026-11-26T13:44:01+09:00",
-      "count": 48,
-      "file": "data/headline-archive/2026-11-26/morning.json",
-      "scheduled_at": "2026-11-26T08:00:00+09:00"
+      "state": "failed",
+      "message": "일부 분야 수집 실패 · 마지막 정상 기록 유지",
+      "checked_at": "2026-11-26T21:59:52+09:00",
+      "errors": {
+        "economy": "HTTPError"
+      }
     },
     "analysis": {
       "state": "disabled",
@@ -17,9 +17,9 @@
     "execution": {
       "state": "scheduled_run_observed",
       "message": "GitHub 예약 실행 이력 확인 · 예정 시각 대비 지연 가능",
-      "checked_at": "2026-11-26T13:44:01+09:00",
+      "checked_at": "2026-11-26T21:59:53+09:00",
       "event": "schedule",
-      "run_url": "https://github.com/askdfdg11/signal-dashboard/actions/runs/45757051296"
+      "run_url": "https://github.com/askdfdg11/signal-dashboard/actions/runs/45824828983"
     }
   }
 }
